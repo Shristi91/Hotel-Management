@@ -71,7 +71,7 @@ overflow-x:hidden;
 /* showcase Area*/
 #showcase{
 	
-background:url(2.jpg)no-repeat center/cover;
+background:url(../img/2.jpg)no-repeat center/cover;
 height:91.7vh;
 }
 
@@ -268,7 +268,7 @@ height:91.7vh;
 }
 
 #gallery{
-	background: url(4.jpg)no-repeat center/cover;
+	background: url(../img/4.jpg)no-repeat center/cover;
 	height:100vh;
 }
 #gallery p.white{
@@ -320,7 +320,7 @@ height:91.7vh;
 
 /* Section-Review*/
 #review{
-	background: url(3.jpg)no-repeat center/cover;
+	background: url(../img/3.jpg)no-repeat center/cover;
 	height:100vh;
 }
 .review-bg{
